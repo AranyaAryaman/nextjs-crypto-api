@@ -27,14 +27,8 @@ You can install them as follows:
 # Install Node.js
 Download and install from [Node.js official website](https://nodejs.org/).
 
-# Install Yarn (optional)
-npm install --global yarn
 
-# Install Expo CLI (optional for mobile)
-npm install --global expo-cli
-
-
-Setting Up the Web App
+## Setting Up the Web App
 1. Navigate to the web-app folder:
 ```
 cd web-app
@@ -56,7 +50,7 @@ npm run dev
 ```
 
 
-### Setting Up Documentation (Docusaurus)
+## Setting Up Documentation (Docusaurus)
 
 1. Navigate to the docs folder:
 ```
